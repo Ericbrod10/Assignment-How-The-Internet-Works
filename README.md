@@ -9,6 +9,8 @@ Made by Eric Broderick
     * Added Domain names and ICANN Feature
     * Changed Readme.md with new URL
     * Added IP Addresses, Packets and Routing Features
+    * Added DNS Feature 
+    
     
 
     
