@@ -12,6 +12,7 @@ Made by Eric Broderick
     * Added DNS Feature 
     * Added HTTP Feature 
     * Added W3C, HTML AND CSS Feature
+    * Updated Links on All pages and added new links
     
     
 
