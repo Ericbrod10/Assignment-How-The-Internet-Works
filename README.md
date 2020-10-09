@@ -10,6 +10,7 @@ Made by Eric Broderick
     * Changed Readme.md with new URL
     * Added IP Addresses, Packets and Routing Features
     * Added DNS Feature 
+    * Added HTTP Feature 
     
     
 
