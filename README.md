@@ -15,6 +15,7 @@ Made by Eric Broderick
   * ericbrod10 10-09-2020
     * Updated Links on All pages and added new links
     * Updates Pictures on HTML, DNS and HTTPS
+    * Added Information to the About Page
     
     
 
