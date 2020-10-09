@@ -14,8 +14,9 @@ Made by Eric Broderick
     * Added W3C, HTML AND CSS Feature
   * ericbrod10 10-09-2020
     * Updated Links on All pages and added new links
-    * Updates Pictures on HTML, DNS and HTTPS
+    * Updated Pictures on HTML, DNS and HTTPS
     * Added Information to the About Page
+    * Changed links between pages around
     
     
 
