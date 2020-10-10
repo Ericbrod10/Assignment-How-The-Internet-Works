@@ -79,9 +79,10 @@
                     Since the Internet is based on IP addresses, each time you use a domain name such as “Google.com”, a DNS server must
                     translate the name into the correct IP address “8.8.8.8”. A DNS server is essentially a database that contains domain
                     names and their correct IP addresses.</p>
-                <p>Due to the fact the list of domain names is limitless it would be impossible to keep all domains on a single server
+                <p>Due to the fact the list of domain names is limitless, it would be impossible to keep all domain names on a single server
                     especially since they could be updating constantly. This would be a single point of failure on the DNS system which
-                    is why DNS servers are distributed around the world. In the event a DNS server does not have the information, it may
+                    is why DNS servers are distributed around the world. Since a single DNS Server can not contain all possible DNS addresses, DNS servers may contain
+                    information of other DNS Servers. So basically in the event a DNS server does not have the information, it may
                     reroute the user to another DNS server which it thinks has the domain name and IP address information the user needs.</p>
             </div>
         </div>
