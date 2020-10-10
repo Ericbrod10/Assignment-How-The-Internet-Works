@@ -17,7 +17,7 @@ Made by Eric Broderick
     * Updated Pictures on HTML, DNS and HTTPS
     * Added Information to the About Page
     * Changed links between pages around
-    
+    * Added Information to HTTP and DNS
     
 
     
