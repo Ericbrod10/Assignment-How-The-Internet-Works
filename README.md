@@ -18,6 +18,8 @@ Made by Eric Broderick
     * Added Information to the About Page
     * Changed links between pages around
     * Added Information to HTTP and DNS
+    * Added Information to IP Address and ICANN Pages
+    * Small Formatting Changes
     
 
     
